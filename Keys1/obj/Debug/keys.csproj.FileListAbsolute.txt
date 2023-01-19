@@ -1,0 +1,15 @@
+C:\Users\koten\source\repos\Keys\keys\keys\bin\Debug\keys.exe.config
+C:\Users\koten\source\repos\Keys\keys\keys\bin\Debug\keys.exe
+C:\Users\koten\source\repos\Keys\keys\keys\bin\Debug\keys.pdb
+C:\Users\koten\source\repos\Keys\keys\keys\obj\Debug\keys.csproj.AssemblyReference.cache
+C:\Users\koten\source\repos\Keys\keys\keys\obj\Debug\keys.csproj.SuggestedBindingRedirects.cache
+C:\Users\koten\source\repos\Keys\keys\keys\obj\Debug\keys.Glav.resources
+C:\Users\koten\source\repos\Keys\keys\keys\obj\Debug\keys.Properties.Resources.resources
+C:\Users\koten\source\repos\Keys\keys\keys\obj\Debug\keys.csproj.GenerateResource.cache
+C:\Users\koten\source\repos\Keys\keys\keys\obj\Debug\keys.csproj.CoreCompileInputs.cache
+C:\Users\koten\source\repos\Keys\keys\keys\obj\Debug\keys.exe
+C:\Users\koten\source\repos\Keys\keys\keys\obj\Debug\keys.pdb
+C:\Users\koten\source\repos\Keys\keys\keys\obj\Debug\keys.CloseKab.resources
+C:\Users\koten\source\repos\Keys\keys\keys\obj\Debug\keys.OpenKab.resources
+C:\Users\koten\source\repos\Keys\keys\keys\bin\Debug\MySql.Data.dll
+C:\Users\koten\source\repos\Keys\keys\keys\obj\Debug\keys.csproj.CopyComplete
