@@ -1,0 +1,7 @@
+C:\Users\koten\source\repos\Keys\Keys\obj\Debug\net6.0-windows\Keys.csproj.AssemblyReference.cache
+C:\Users\koten\source\repos\Keys\Keys\obj\Debug\net6.0-windows\Keys.Form1.resources
+C:\Users\koten\source\repos\Keys\Keys\obj\Debug\net6.0-windows\Keys.csproj.GenerateResource.cache
+C:\Users\koten\source\repos\Keys\Keys\obj\Debug\net6.0-windows\Keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koten\source\repos\Keys\Keys\obj\Debug\net6.0-windows\Keys.AssemblyInfoInputs.cache
+C:\Users\koten\source\repos\Keys\Keys\obj\Debug\net6.0-windows\Keys.AssemblyInfo.cs
+C:\Users\koten\source\repos\Keys\Keys\obj\Debug\net6.0-windows\Keys.csproj.CoreCompileInputs.cache
